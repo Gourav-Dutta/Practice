@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-      <h1>App.JSX</h1>
+      <h1>Hello from backend 00
+      </h1>
     </>
   )
 }
